@@ -1,0 +1,14 @@
+h1{
+    text-align:center;
+}
+div{
+    font-size:2vw;
+    display:grid;
+    gap:10px;
+}
+p{
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+img{
+}
